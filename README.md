@@ -1,0 +1,2 @@
+# Bad-Domain
+For AdGuardHome
