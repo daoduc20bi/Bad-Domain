@@ -1,1 +1,8 @@
 ||bocongan.web.id^
+# Lừa đảo dịch vụ công việt nam
+||*.dvc-etax.com^
+||*.dvc-dientu.com^
+||*.dvc-chinhphu.com^
+||*.vietchinhphuvn.com^
+||*.dvc-mobi.com^
+||*.dvc-mobile.net^
