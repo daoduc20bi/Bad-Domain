@@ -6,3 +6,5 @@
 ||*.vietchinhphuvn.com^
 ||*.dvc-mobi.com^
 ||*.dvc-mobile.net^
+# Malware
+||avsecurity.workers.dev^
