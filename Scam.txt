@@ -8,3 +8,5 @@
 ||*.dvc-mobile.net^
 # Malware
 ||avsecurity.workers.dev^
+# Điện lực giả
+||evnquocgia.com^
