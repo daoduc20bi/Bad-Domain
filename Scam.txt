@@ -10,3 +10,10 @@
 ||avsecurity.workers.dev^
 # Điện lực giả
 ||evnquocgia.com^
+#Ma doc lay len qua web phim anh huong toi ios dưới 26 và 18.7.3
+||*.ue8im.com^
+||im.ue8im.com^
+23.225.52.67
+||union.macoms.la^
+||*.macoms.la^
+23.225.48.20
