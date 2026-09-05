@@ -10,10 +10,44 @@
 ||avsecurity.workers.dev^
 # Điện lực giả
 ||evnquocgia.com^
-#Ma doc lay len qua web phim anh huong toi ios dưới 26 và 18.7.3
-||*.ue8im.com^
+! ==========================================
+! FUNNULL - iOS Exploit & Supply Chain Campaign
+! ==========================================
+! --- 1. Delivery & Exploit Infrastructure ---
+||macoms.la^
+||data-2920.com^
+||data-2919.com^
+||cloudfareintcdn.com^
+||yunray.ai^
+||cdn1.ai^
+||nqsaaskw.com^
+||abfedgecanme.com^
+||abfdns.com^
+||galedns.com^
+! --- 2. Exfiltration C2 (Máy chủ nhận dữ liệu đánh cắp) ---
+||0liwevrhxdc3s2xk00.com^
+||39rwcybep-20pwozhvdrzzy.net^
+||5wg3w278e3oamlohmcinrkh.live^
+||dlosdekr1u18msmov51.net^
+||ex0x40vmi8qyccxq.net^
+||ioa7xqmhiz26fv5e.info^
+||isbo31w1o7xk3fztvmgpbv.app^
+||jhflt6l0dwminsl494836rb.org^
+||kp2-3ur6pe4r8i2hj5.com^
+||ljot1cem6jhzfu53yb9aj3h.app^
+||ncalb1rzb2rq5-3zdx1.app^
+||ov86ayb0fe4ep2b92-645o.com^
+||qdh71-y6j7vxgw046v4cvgga.live^
+||sx3cjniwo1bmtqs0vlj-va2f.app^
+||sx8vuz4smtdol7pg.com^
+||t9ffxu6zhf915fadjv1.app^
+||vutjsf0sd9sdqt2rkzvgzv9a.org^
+||w4iunvbdvjof39q-3.net^
+||xtpj2bzxip6iq7n3bnz.info^
+||zfu4n4kxgmx32hsqg.cc^
+! --- 3. Gambling & Ad-Fraud (Tên miền & Địa chỉ IP) ---
 ||im.ue8im.com^
+||xl0ph4qz.vip^
+||cre-ads.com^
 23.225.52.67
-||union.macoms.la^
-||*.macoms.la^
 23.225.48.20
