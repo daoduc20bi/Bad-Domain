@@ -51,3 +51,6 @@
 ||cre-ads.com^
 23.225.52.67
 23.225.48.20
+! --- REM Control - Android Malware ---
+||tvtap-hd.app^
+||tvtap-liveapp.com^
