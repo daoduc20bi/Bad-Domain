@@ -54,3 +54,14 @@
 ! --- REM Control - Android Malware ---
 ||tvtap-hd.app^
 ||tvtap-liveapp.com^
+! --- Blocklist Midnight Mimosa + Android.Phantom
+||api.weatherlive.world^
+||oss.showtimetool.com^
+||0aa0cf0637d66c0d.com^
+||aa86a52a98162b7d.com^
+||442fe7151fb1e9b5.com^
+||v46wd6uramzkmeeo.in^
+||cgb.jingongbuxiao.com^
+||5.ahd187.com^
+||fyapi.freeflightbird.com^
+||zhuifengzhe.top^
